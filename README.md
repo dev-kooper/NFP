@@ -18,3 +18,6 @@
 - CloudKit (Public Database) для тренировок и лайков
 - MVVM (Observable)
 - iOS 17+
+  
+## Контакты
+Email: con-07-remand@icloud.com
